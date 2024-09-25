@@ -1,5 +1,6 @@
 # Student Identity Verification on Blockchain
-
+![image](https://github.com/user-attachments/assets/08bf03df-fdd1-41c7-bd5d-65d2985ec0db)
+0x33bab1f2b1f194f5497a3aa3444fd8516574b7dd548081ba08be9a996ddda062
 ## Vision
 
 The **Student Identity Verification** smart contract aims to streamline and secure student attendance and identity verification processes using blockchain technology. By storing each student’s identity on-chain, this solution ensures transparency, security, and immutability. The contract allows for easy storage of student information and verification in a decentralized environment, ensuring data integrity and preventing fraud in the educational sector.
